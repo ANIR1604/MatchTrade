@@ -3,9 +3,9 @@ We're building a simple trading strategy to exploit price differences between tw
 
 
 ### Key Considerations :
-- Speed: Illiquid markets can have wide spreads, but prices shift quickly once arbitrage is noticed.
-- Fees: Account for trading, withdrawal, and deposit fees, as they can erode profits.
 - Risk: Market volatility, withdrawal delays, or limits may impact execution.
+- Fees: Account for trading, withdrawal, and deposit fees, as they can erode profits.
+- Speed: Illiquid markets can have wide spreads, but prices shift quickly once arbitrage is noticed.
 
 
 ### Tech Stack Used :
