@@ -1,4 +1,5 @@
-# Match Trade
+# Trading Arbs
+
 We're building a simple trading strategy to exploit price differences between two exchanges. It detects arbitrage opportunities by comparing prices and executes buy/sell orders to profit from the discrepancy. Arbitrage in illiquid markets involves exploiting price differences for the same asset across different markets or pairs. In such markets, inefficiencies and low trading volumes create opportunities to profit from discrepancies in asset prices.
 
 
